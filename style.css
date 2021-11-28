@@ -1,0 +1,147 @@
+body {
+    font-family: 'Anton', sans-serif;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    background: url('img/bg.png');
+}
+.left {
+    display: inline-block;
+    /* border: 2px solid red; */
+    top: 12px;
+    position: absolute;
+    left: 26px;
+    text-align: center;
+}
+
+.left img {
+    height: 64px;
+    width: 88px;
+    filter: invert(100%);
+}
+
+.mid {
+    margin: -1px 490px;
+    width: 50%;
+    display: block;
+    /* border: 2px solid blue; */
+}
+
+.navbar {
+    position: fixed;
+    display: inline-block;
+
+}
+
+.navbar li {
+    display: inline-block;
+    color: white;
+}
+
+.navbar li a {
+    color: white;
+    text-decoration: none;
+    padding: 14px 11px;
+}
+
+.navbar li a:hover,.navbar li a.active {
+    text-decoration: underline;
+    color: grey;
+}
+
+.right {
+    top: 302px;
+    margin: 39px 162px;
+    position: absolute;
+
+    display: inline-block;
+    /* border: 2px solid green; */
+}
+
+h1 {
+    font-family: initial;
+    background-color: #555357;
+    color: white
+}
+
+.btn {
+    font-family: ui-rounded;
+    background-color: #3e505f;
+    color: white;
+    border: 2px solid #adacbb;
+    border-radius: 6px;
+    text-decoration: none;
+} body {
+    font-family: 'Anton', sans-serif;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    background: url('img/bg.png');
+}
+.left {
+    display: inline-block;
+    /* border: 2px solid red; */
+    top: 12px;
+    position: absolute;
+    left: 26px;
+    text-align: center;
+}
+
+.left img {
+    height: 64px;
+    width: 88px;
+    filter: invert(100%);
+}
+
+.mid {
+    margin: -1px 490px;
+    width: 50%;
+    display: block;
+    /* border: 2px solid blue; */
+}
+
+.navbar {
+    position: fixed;
+    display: inline-block;
+
+}
+
+.navbar li {
+    display: inline-block;
+    color: white;
+}
+
+.navbar li a {
+    color: white;
+    text-decoration: none;
+    padding: 14px 11px;
+}
+
+.navbar li a:hover,.navbar li a.active {
+    text-decoration: underline;
+    color: grey;
+}
+
+.right {
+    top: 302px;
+    margin: 39px 162px;
+    position: absolute;
+
+    display: inline-block;
+    /* border: 2px solid green; */
+}
+
+h1 {
+    font-family: initial;
+    background-color: #555357;
+    color: white
+}
+
+.btn {
+    font-family: ui-rounded;
+    background-color: #3e505f;
+    color: white;
+    border: 2px solid #adacbb;
+    border-radius: 6px;
+    text-decoration: none;
+}
